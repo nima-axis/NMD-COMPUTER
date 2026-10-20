@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />
+	<img src="logo.png" width="376" height="128" alt="NMD COMPUTER Logo" />
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 	</a>
 </p>
 
-# Winlator
+# NMD COMPUTER
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+NMD COMPUTER is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
 # Installation
 
-1. Download and install the APK (Winlator_11.2.apk) from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
+1. Download and install the APK (NMD COMPUTER_11.2.apk) from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
 2. Launch the app and wait for the installation process to finish
 
 ----
@@ -38,7 +38,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - If you are experiencing instability issues, try changing the Box64 preset in Container Settings -> Advanced Tab.
 - For applications that use .NET Framework, try installing `Wine Mono` found in Start Menu -> System Tools -> Installers.
 - If some older games don't open, try adding the environment variable `MESA_EXTENSION_MAX_YEAR=2003` in Container Settings -> Environment Variables.
-- Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
+- Try running the games using the shortcut on the NMD COMPUTER home screen, there you can define individual settings for each game.
 - To display low resolution games correctly, try to enabling the `Force Fullscreen` option in the shortcut settings.
 - To improve stability in games that uses Unity Engine, try changing the Box64 preset to `Stability` or in the shortcut settings add the exec argument `-force-gfx-direct`.
 - If you are experiencing audio crackling, try increasing the average latency in ALSA/PulseAudio configuration. Old games like Unreal Gold resolve audio issues by increasing this value to 90ms.
