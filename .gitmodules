@@ -1,6 +1,6 @@
 [submodule "app"]
 	path = app
-	url = https://github.com/nima-axis/nmd-computer-app.git
+	url = https://github.com/nima-axis/nmd-computer-app
 	branch = main
 [submodule "vortek"]
 	path = vortek
